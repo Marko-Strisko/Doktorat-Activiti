@@ -1,3 +1,3 @@
 # Doktorat-Activiti
 
-Colleage project which uses Workflow management system (Camunda) to define business workflows and processes.
+Colleage project which uses Workflow management system (Activiti) to define business workflows and processes.
